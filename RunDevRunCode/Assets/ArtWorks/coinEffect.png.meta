@@ -1,0 +1,323 @@
+fileFormatVersion: 2
+guid: 38d025f8014e6b64bb9008982a298afa
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: coinEffect
+    21300002: coinEffect_0
+    21300004: coinEffect_1
+    21300006: coinEffect_2
+    21300008: coinEffect_3
+    21300010: coinEffect_4
+    21300012: coinEffect_5
+    21300014: coinEffect_6
+    21300016: coinEffect_7
+    21300018: coinEffect_8
+    21300020: coinEffect_9
+    21300022: coinEffect_10
+    21300024: coinEffect_11
+    21300026: coinEffect_12
+    21300028: coinEffect_13
+    21300030: coinEffect_14
+    21300032: coinEffect_15
+    21300034: coinEffect_16
+    21300036: coinEffect_17
+    21300038: coinEffect_18
+    21300040: coinEffect_19
+    21300042: coinEffect_20
+    21300044: coinEffect_21
+    21300046: coinEffect_22
+    21300048: coinEffect_23
+    21300050: coinEffect_24
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 10
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: coinEffect_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 211
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: coinEffect_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 211
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: coinEffect_2
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 211
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: coinEffect_3
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 211
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: coinEffect_4
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 211
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: coinEffect_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 166
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: coinEffect_6
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 166
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: coinEffect_7
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 166
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: coinEffect_8
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 166
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: coinEffect_9
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 166
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: coinEffect_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 121
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: coinEffect_11
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 121
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: coinEffect_12
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 121
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: coinEffect_13
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 121
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: coinEffect_14
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 121
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: coinEffect_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 76
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: coinEffect_16
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 76
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: coinEffect_17
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 76
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: coinEffect_18
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 76
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: coinEffect_19
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 76
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: coinEffect_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 31
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: coinEffect_21
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 31
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: coinEffect_22
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 31
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: coinEffect_23
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 31
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: coinEffect_24
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 31
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
